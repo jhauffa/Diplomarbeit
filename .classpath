@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="external/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="MALLET/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="MALLET/mallet.jar"/>
+	<classpathentry kind="lib" path="CRF-Sarawagi/colt.jar"/>
+	<classpathentry kind="lib" path="CRF-Sarawagi/CRF.jar"/>
+	<classpathentry kind="lib" path="CRF-Sarawagi/LBFGS.jar"/>
+	<classpathentry kind="lib" path="CRF-Sarawagi/trove.jar"/>
+	<classpathentry kind="lib" path="external/PorterStemmer.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

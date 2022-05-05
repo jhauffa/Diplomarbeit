@@ -1,0 +1,24 @@
+abbreviations (abbrev.txt):
+	http://www.webopedia.com/quick_ref/textmessageabbreviations.asp
+
+emoticons (emoticons-pos.txt, emoticons-neg.txt):
+	http://en.wikipedia.org/wiki/List_of_emoticons
+	http://piology.org/smiley.txt
+	http://netforbeginners.about.com/cs/netiquette101/a/bl_emoticons101.htm
+	http://messenger.yahoo.com/features/emoticons
+
+slang (slang-pos.txt, slang-neg.txt, slang-ud.txt):
+	http://onlineslangdictionary.com
+	http://urbandictionary.com
+	http://www.scit.wlv.ac.uk/~cm1993/papers/MySpaceSwearing_online.doc
+		(extended version of M. Thelwall: "Fk yea I swear: Cursing and gender in
+		 MySpace". Corpora 3(1), p. 83-107, DOI 10.3366/E1749503208000087)
+
+"General Inquirer" word lists (GI.*.lst):
+	http://www.wjh.harvard.edu/~inquirer/Home.html
+	http://www.wjh.harvard.edu/~inquirer/homecat.htm
+
+grammatical functions (coord.lst, intensifiers.lst, modal.lst,
+negation.direct.lst, negation.indirect.lst, weakeners.lst):
+	R. Quirk, S. Greenbaum, G. Leech, J. Svartvik: A comprehensive grammar of
+	the English language. Longman (Harlow, UK), 1985
